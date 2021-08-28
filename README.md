@@ -6,7 +6,7 @@
 
 - [x] Criação HTML
 - [x] Estilo em CSS
-- [ ] Layout do app
+
 
 
 
