@@ -1,14 +1,10 @@
 # Login-challenge
 
+<h1>Tela de Login (HTML, CSS ) </h1>
+
+<p> desafio de criação de tela de login do curso dev club </p>
+
 <img src="./assets/login-challenge.jpeg" alt="imagem  pagina login"> <br>
-
-
-
-- [x] Criação HTML
-- [x] Estilo em CSS
-
-
-
 
 ## 🤝 Colaboradores
 
